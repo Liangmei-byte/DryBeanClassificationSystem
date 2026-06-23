@@ -97,16 +97,4 @@ python main.py all --input_dir data/raw --processed_dir data/processed --output_
 python main.py all --input_dir data/raw --processed_dir data/processed --output_dir results --skip_robustness
 ```
 
-## 8. 展示网页
 
-本仓库提供 `docs/index.html` 作为静态展示页面。上传 GitHub 后，可在仓库设置中启用 GitHub Pages：
-
-`Settings → Pages → Source: Deploy from a branch → Branch: main / docs`
-
-启用后展示链接格式一般为：
-
-```text
-https://你的GitHub用户名.github.io/仓库名/
-```
-
-请将最终网页链接填写到论文对应章节中。
