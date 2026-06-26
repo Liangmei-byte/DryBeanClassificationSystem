@@ -39,9 +39,8 @@
 | Softmax | 0.920 | 0.1 us | 0.004 | 推理最快，泛化稳定，但模型表达能力较弱 |
 | KNN | 0.922 | 11.1 us | 0.078 | 精度较高，但对异常值和距离扰动较敏感 |
 
-<p align="center">
-  < img src="https://raw.githubusercontent.com/Liangmei-byte/DryBeanClassificationSystem/blob/main/test_accuracy_comparison.png" width="700"/>
-</p >
+
+![精确度对比图"]("https://github.com/Liangmei-byte/DryBeanClassificationSystem/blob/main/test_accuracy_comparison.png" )
 
 ## 5. 项目结构
 
