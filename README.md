@@ -38,7 +38,11 @@
 | XGBoost | 0.922 | 4.9 us | 0.055 | 综合表现最均衡 |
 | Softmax | 0.920 | 0.1 us | 0.004 | 推理最快，泛化稳定，但模型表达能力较弱 |
 | KNN | 0.922 | 11.1 us | 0.078 | 精度较高，但对异常值和距离扰动较敏感 |
-![此为测试集精度对比图](D:\code\Machine_Learning\DryBeanClassificationSystem\results\figures\test_accuracy_comparison.png"测试集精度对比图")
+
+<p align="center">
+  < img src="https://github.com/Liangmei-byte/DryBeanClassificationSystem/blob/main/test_accuracy_comparison.png" width="700"/>
+</p >
+
 ## 5. 项目结构
 
 ```text
