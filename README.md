@@ -40,7 +40,7 @@
 | KNN | 0.922 | 11.1 us | 0.078 | 精度较高，但对异常值和距离扰动较敏感 |
 
 <p align="center">
-  < img src="https://github.com/Liangmei-byte/DryBeanClassificationSystem/blob/main/test_accuracy_comparison.png" width="700"/>
+  < img src="https://raw.githubusercontent.com/Liangmei-byte/DryBeanClassificationSystem/blob/main/test_accuracy_comparison.png" width="700"/>
 </p >
 
 ## 5. 项目结构
