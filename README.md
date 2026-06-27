@@ -62,11 +62,10 @@ DryBeanClassificationSystem/
 │   ├── evaluate.py
 │   ├── noise.py
 │   └── plot_utils.py
-├── results/
-│   ├── summary_metrics.csv
-│   └── figures/
-└── docs/
-    └── index.html                   # GitHub Pages 静态展示页面
+└── results/
+    ├── summary_metrics.csv
+    └── figures/
+
 ```
 
 ## 6. 安装依赖
